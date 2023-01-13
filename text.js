@@ -9,7 +9,7 @@ async function main() {
     
     const response = await openai.createCompletion({
         model: "text-davinci-003",
-        prompt: "PHP code for quick sort",
+        prompt: "How to write a Teams app",
         temperature: 0,
         max_tokens: 2048,
     });

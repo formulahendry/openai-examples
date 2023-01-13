@@ -9,13 +9,11 @@ async function main() {
     
     const response = await openai.createImage({
         prompt: "a white siamese cat",
-        n: 1,
+        n: 10,
         size: "256x256",
     });
 
-    image_url = response.data.data[0].url;
-
-    console.log(image_url);
+    console.log(response.data.data);
 }
 
 main();
