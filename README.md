@@ -31,3 +31,9 @@ This repo contains Node.js examples using the [OpenAI API](https://beta.openai.c
    ```bash
    $ node xxx.js
    ```
+
+## Reference
+
+* [Documentation](https://beta.openai.com/docs/introduction)
+* [Examples](https://beta.openai.com/examples)
+* [Playground](https://beta.openai.com/playground)
