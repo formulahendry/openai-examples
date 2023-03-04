@@ -1,6 +1,6 @@
-# Node.js examples for OpenAI API
+# Code Samples for OpenAI & ChatGPT API
 
-This repo contains Node.js examples using the [OpenAI API](https://beta.openai.com/docs/introduction).
+This repo contains code samples using the [OpenAI API](https://beta.openai.com/docs/introduction).
 
 ## Setup
 
