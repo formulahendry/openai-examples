@@ -8,9 +8,9 @@ async function main() {
     const openai = new OpenAIApi(configuration);
     
     const response = await openai.createImage({
-        prompt: "a white siamese cat",
+        prompt: "A cartoon of a monkey in space",
         n: 10,
-        size: "256x256",
+        size: "512x512",
     });
 
     console.log(response.data.data);
