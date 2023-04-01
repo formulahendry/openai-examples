@@ -2,6 +2,7 @@
 
 ## Prerequisites
 
+- Python 3.7.1 or later version
 - An Azure subscription - <a href="https://azure.microsoft.com/free/cognitive-services" target="_blank">Create one for free</a>
 - Access granted to Azure OpenAI in the desired Azure subscription
 
@@ -42,5 +43,5 @@ To successfully make a call against Azure OpenAI, you'll need the following:
 7. Run the app
 
    ```bash
-   $ python quickstart.py
+   $ python xxx.py
    ```
