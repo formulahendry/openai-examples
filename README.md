@@ -32,6 +32,11 @@ This repo contains code samples using the [OpenAI API](https://beta.openai.com/d
    $ node xxx.js
    ```
 
+## ChatGPT Bot Apps
+
+* [ChatGPT WeChat Bot](https://github.com/formulahendry/chatgpt-wechat-bot)
+* [ChatGPT Teams Bot](https://github.com/formulahendry/chatgpt-teams-bot)
+
 ## Reference
 
 * [Documentation](https://beta.openai.com/docs/introduction)
