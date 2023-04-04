@@ -9,7 +9,7 @@ async function main() {
     
     const response = await openai.createImage({
         prompt: "A cartoon of a monkey in space",
-        n: 10,
+        n: 2,
         size: "512x512",
     });
 
