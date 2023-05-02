@@ -16,7 +16,8 @@ async function main() {
             { "role": "user", "content": "Where was it played?" }
         ],
     });
-    console.log(completion.data.choices[0].message);
+    const resposta = completion.data.choices[0].text;
+    document.getElementById('resposta').innerHTML = resposta;
 }
 
 main();
